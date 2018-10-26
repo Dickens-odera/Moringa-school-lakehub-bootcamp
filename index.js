@@ -11,7 +11,11 @@ var message = prompt("What is age?");
 if(message == null){
     alert("Please provide your age");
 }
+
 else{
     alert("Your age is "+ message);
+}
+function sayHello(){
+    alert("hello");
 }
 test();
