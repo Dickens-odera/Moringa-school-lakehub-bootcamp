@@ -5,4 +5,13 @@ var age = 21;
 function test(){
     alert("You are "+ name +" and your age is "+ age);
 }
+
+var message = prompt("What is age?");
+
+if(message == null){
+    alert("Please provide your age");
+}
+else{
+    alert("Your age is "+ message);
+}
 test();
