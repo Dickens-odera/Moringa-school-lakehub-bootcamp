@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(1, 150, 250, 0.8);
+}
+h3{
+    color: rgb(57, 18, 228);
+}
+img{
+    height: 30%;
+    width: 30%;
+}
+p{
+    font-weight:bold;
+    font-style: italic;
+    font-size:150%;
+}
+.hobbies{
+    color: chocolate;
+}
+#aspirations{
+    color: #fff;
+}
