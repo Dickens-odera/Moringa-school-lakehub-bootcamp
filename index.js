@@ -6,7 +6,7 @@ function test(){
     alert("You are "+ name +" and your age is "+ age);
 }
 
-var message = prompt("What is age?");
+var message = prompt("What is your age?");
 
 if(message == null){
     alert("Please provide your age");
